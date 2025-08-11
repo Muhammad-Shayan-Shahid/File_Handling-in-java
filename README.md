@@ -17,24 +17,6 @@ This repo covers:
 
 ---
 
-## 📸 Example Code
-
-```java
-import java.io.FileWriter;
-import java.io.IOException;
-
-public class WriteToFile {
-    public static void main(String[] args) {
-        try (FileWriter writer = new FileWriter("example.txt")) {
-            writer.write("Hello, Java File Handling!");
-            System.out.println("✅ Data written successfully.");
-        } catch (IOException e) {
-            System.out.println("❌ An error occurred.");
-            e.printStackTrace();
-        }
-
----
-
 ## 🛠 Topics Covered
 - ✅ **Introduction to File Handling**
 - ✅ **Creating a File**
@@ -48,3 +30,12 @@ public class WriteToFile {
 
 ---
 
+## ✍️ About Programmer
+
+**Muhammad Shayan Shahid**  
+📍 Java & Front-End Learner  
+📧 [msshahid23052006@gmail.com](mailto:msshahid23052006@gmail.com) 
+
+Feel free to connect or reach out for collaboration or feedback! 🤝
+
+---
